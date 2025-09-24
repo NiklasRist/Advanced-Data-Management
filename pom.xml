@@ -19,7 +19,7 @@
             <artifactId>ua</artifactId>
             <scope>system</scope>
             <version>1.0</version>
-            <systemPath>C:/Users/acer/Desktop/programmierprojekte/CNC Machining Center/lib/prosys-opc-ua-sdk-evaluation-5.2.2-139.jar</systemPath>
+            <systemPath>${project.basedir}/lib/prosys-opc-ua-sdk-evaluation-5.2.2-139.jar</systemPath>
         </dependency>
         <!-- SLF4J Binding (z. B. Simple Logger) -->
         <dependency>
